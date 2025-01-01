@@ -1,0 +1,65 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * cinema-script:
+ *   - http://typekit.com/eulas/0000000000000000774ba05a
+ * marvin:
+ *   - http://typekit.com/eulas/00000000000000007735cbe9
+ * marvin-round:
+ *   - http://typekit.com/eulas/00000000000000007735cbea
+ * marvin-shadow:
+ *   - http://typekit.com/eulas/00000000000000007735cbec
+ * wreath:
+ *   - http://typekit.com/eulas/00000000000000007735cb54
+ *   - http://typekit.com/eulas/00000000000000007735cb61
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-11-29 11:49:23 UTC"}*/
+
+@import url("../p.typekit.net/p7aaa.css?s=1&amp;k=xmq4ukd&amp;ht=tk&amp;f=43322.43323.43324.43502.43504.51811&amp;a=117164369&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"marvin";
+src:url("af/88297f/00000000000000007735cbe9/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/88297f/00000000000000007735cbe9/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/88297f/00000000000000007735cbe9/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"marvin-round";
+src:url("af/c93b0b/00000000000000007735cbea/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/c93b0b/00000000000000007735cbea/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/c93b0b/00000000000000007735cbea/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"marvin-shadow";
+src:url("af/6ee987/00000000000000007735cbec/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/6ee987/00000000000000007735cbec/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/6ee987/00000000000000007735cbec/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"wreath";
+src:url("af/b020da/00000000000000007735cb54/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/b020da/00000000000000007735cb54/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/b020da/00000000000000007735cb54/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"wreath";
+src:url("af/25a0bf/00000000000000007735cb61/30/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/25a0bf/00000000000000007735cb61/30/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/25a0bf/00000000000000007735cb61/30/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"cinema-script";
+src:url("af/0e613b/0000000000000000774ba05a/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/0e613b/0000000000000000774ba05a/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/0e613b/0000000000000000774ba05a/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-marvin { font-family: "marvin",sans-serif; }
+.tk-marvin-round { font-family: "marvin-round",sans-serif; }
+.tk-marvin-shadow { font-family: "marvin-shadow",sans-serif; }
+.tk-wreath { font-family: "wreath",serif; }
+.tk-cinema-script { font-family: "cinema-script",sans-serif; }
